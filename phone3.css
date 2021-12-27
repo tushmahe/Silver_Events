@@ -1,6 +1,3 @@
-body{
-    background-color: bisque;
-}
 #home::before{ 
     height: 540px;
 }
